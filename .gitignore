@@ -1,0 +1,8 @@
+# Code::Blocks
+*.layout
+*.depend
+
+# Objetos intermediários de compilação
+obj/
+*.o
+*.obj
